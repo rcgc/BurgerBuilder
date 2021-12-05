@@ -2,7 +2,7 @@
 Udemy react js legacy course project from 2020 taught by Maximilian Schwarzmüller.
 
 # Abstract
-Single Web Page Application implemented in React Js which uses Redux as state management, FireBase as NoSQL database and WebPack for CSS modules and React Router for routes management, containers, higher order components (hoc), etc.
+Single Web Page Application implemented in React Js which uses Redux as state management, FireBase as NoSQL database, WebPack for CSS modules, React Router for routes management, containers, higher order components (hoc), etc.
 
 # Demo
 ![HomePage](https://github.com/rcgc/BurgerBuilder/blob/master/screenshots/screenshot1.png)
